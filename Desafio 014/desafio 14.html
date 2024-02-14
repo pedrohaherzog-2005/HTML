@@ -9,19 +9,46 @@
             font-family: Arial, Helvetica, sans-serif;
         }
 
-        table {}
+        table {
+            border-collapse: collapse;
+            width: 500px;
+        }
+
+        thead {
+            background-color: gray;
+            color: white;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
     </style>
 </head>
 <body>
     <h1>Tabela de Notas</h1>
     <table>
         <Thead>
-            <th colspan="2">Área</th>
-            <th colspan="2">Disciplinas</th>
-            <th>Notas</th>
-            <th colspan="2">Média</th>
+            <th>Área</th>
+            <th>Disciplinas</th>
+            <th colspan="2">Notas</th>
+            <th>Média</th>
         </Thead>
-        <tbody></tbody>
+        <tbody>
+            <tr>
+                <th rowspan="4">Exatas</th>
+                <td>Matemática</td>
+                <td>0.0</td>
+                <td>0.0</td>
+                <td>0.0</td>
+            </tr>
+            <tr>
+                <td>Física</td>
+                <td>0.0</td>
+                <td>0.0</td>
+                <td>0.0</td>
+            </tr>
+        </tbody>
     </table>
 </body>
 </html>
