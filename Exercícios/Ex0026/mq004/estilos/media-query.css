@@ -22,6 +22,11 @@ Telas Grandes: acima de 1201px;
         border: 2px solid black;
     }
 
+    main::after {
+        content: 'Essa impressão foi feita através do site www.cursoemvideo.com';
+        text-decoration: overline;
+    }
+
     main h1 {
         text-shadow: none;
         color: black;
@@ -61,6 +66,10 @@ Telas Grandes: acima de 1201px;
 @media screen and (min-width: 1201px) { /* Telas Grandes */
     body {
         background-image: url(../imagens04/back-tv.jpg);
+    }
+
+    main {
+        width: 700px;
     }
 
     img#phone { display: none;}
