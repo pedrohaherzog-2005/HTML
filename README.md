@@ -7,6 +7,8 @@ E neste campo aqui vão estar alguns dos projetos que eu já fiz com o que eu fi
 
 LINKS:
 
+Também vou colocar o link para o meu perfil no Github: https://pedrohaherzog-2005.github.io
+
 https://pedrohaherzog-2005.github.io/site-android/
 
 https://pedrohaherzog-2005.github.io/Projeto-Cordel/
