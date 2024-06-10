@@ -1,4 +1,4 @@
 # HTML
- Repositório do curso de HTML5 e CSS3 do CursoemVídeo
+ Meu repositório do curso de HTML5 e CSS3 do CursoemVídeo.
 
-Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
+Este repositório servirá para que eu possa gerenciar alguns projetos ligados a ele. Ele também servirá para demonstrar para outras pessoas a minha evolução com alguns desses projetos e o meu aperfeiçoamento com eles.
