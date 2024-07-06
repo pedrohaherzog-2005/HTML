@@ -6,16 +6,16 @@ Este repositório servirá para que eu possa gerenciar alguns projetos ligados a
 
 LINKS:
 
-https://pedrohaherzog-2005.github.io/site-android/
+* [Site-Android,](https://pedrohaherzog-2005.github.io/site-android/)
 
-https://pedrohaherzog-2005.github.io/Projeto-Cordel/
+* [Projeto-Cordel,](https://pedrohaherzog-2005.github.io/Projeto-Cordel/)
 
-https://pedrohaherzog-2005.github.io/Projeto-RSocial/
+* [Projeto-RSocial,](https://pedrohaherzog-2005.github.io/Projeto-RSocial/)
 
-https://pedrohaherzog-2005.github.io/Projeto-login/
+* [Projeto-TelaLogin.](https://pedrohaherzog-2005.github.io/Projeto-login/)
 
-OBS: Nesse último link de projeto, a minha tela de login ficou com algumas coisas um pouco fora do lugar. Então se vocês quiserem saber como a maioria desses projetos ficariam na integra e só acessar esse link para o repositório do Gustavo Guanabara do CursoemVídeo, https://gustavoguanabara.github.io/.
+OBS: Nesse último link de projeto, a minha tela de login ficou com algumas coisas um pouco fora do lugar. Então se vocês quiserem saber como a maioria desses projetos ficariam na integra e só acessar esse link para o repositório do Gustavo Guanabara do CursoemVídeo, [gustavoguanabara.github.io](https://gustavoguanabara.github.io/).
 
 E também eu vou adicionar um link para acessar o canal do CursoemVídeo, para vocês verem de qual curso são esses projetos:
 
-https://www.youtube.com/cursoemvideo - canal no youtube.
+* [https://www.youtube.com/cursoemvideo](https://www.youtube.com/cursoemvideo) - canal no youtube.
