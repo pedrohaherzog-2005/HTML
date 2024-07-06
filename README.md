@@ -6,13 +6,13 @@ Este repositório servirá para que eu possa gerenciar alguns projetos ligados a
 
 LINKS:
 
-* [Site-Android,](https://pedrohaherzog-2005.github.io/site-android/)
+* [Site-Android](https://pedrohaherzog-2005.github.io/site-android/),
 
-* [Projeto-Cordel,](https://pedrohaherzog-2005.github.io/Projeto-Cordel/)
+* [Projeto-Cordel](https://pedrohaherzog-2005.github.io/Projeto-Cordel/),
 
-* [Projeto-RSocial,](https://pedrohaherzog-2005.github.io/Projeto-RSocial/)
+* [Projeto-RSocial](https://pedrohaherzog-2005.github.io/Projeto-RSocial/),
 
-* [Projeto-TelaLogin.](https://pedrohaherzog-2005.github.io/Projeto-login/)
+* [Projeto-TelaLogin](https://pedrohaherzog-2005.github.io/Projeto-login/).
 
 OBS: Nesse último link de projeto, a minha tela de login ficou com algumas coisas um pouco fora do lugar. Então se vocês quiserem saber como a maioria desses projetos ficariam na integra e só acessar esse link para o repositório do Gustavo Guanabara do CursoemVídeo, [gustavoguanabara.github.io](https://gustavoguanabara.github.io/).
 
