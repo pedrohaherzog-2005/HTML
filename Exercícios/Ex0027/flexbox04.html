@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexible Box</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15pt;
+        }
+
+        .conteiner {
+            background-color: lightsalmon;
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: space-around;
+        }
+
+        .conteiner02 {
+            background-color: lightsalmon;
+            height: 300px;
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: space-evenly;
+            align-items: stretch;
+        }
+
+        .item {
+            background-color: lightskyblue;
+            border: 1px solid black;
+            text-align: center;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Justify-Content(main-axis)</h2>
+    <div class="conteiner">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+        <div class="item">D</div>
+        <div class="item">E</div>
+        <div class="item">F</div>
+        <div class="item">G</div>
+    </div>
+    <br>
+    <h2>Align-items(cross-axis)</h2>
+    <div class="conteiner02">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+        <div class="item">D</div>
+        <div class="item">E</div>
+        <div class="item">F</div>
+        <div class="item">G</div>
+    </div>
+</body>
+</html>
